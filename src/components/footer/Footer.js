@@ -1,6 +1,6 @@
 import React from 'react'
 import"./footer.css"
-import {AiFillFacebook}  from "react-icons/ai"
+import {BsGithub}  from "react-icons/bs"
 import {FaInstagramSquare}  from "react-icons/fa"
 import {AiFillLinkedin}  from "react-icons/ai"
 export default function Footer() {
@@ -19,9 +19,9 @@ export default function Footer() {
         
       </ul>
       <div className="footer__socials">
-          <a href="https://facebook.com"><AiFillFacebook /></a>
+          <a href="https://github.com/irfanariyaz"><BsGithub /></a>
           <a href="https://instagram.com"><FaInstagramSquare /></a>
-          <a href="https://linkedin.com"><AiFillLinkedin /></a>
+          <a href="https://linkedin.com/in/irfana-sulaiman-44a242240"><AiFillLinkedin /></a>
       </div>
       <div className="footer__copyright">
         <small>&copy;Irfana Sulaiman, All rights reserved</small>
