@@ -15,19 +15,19 @@ export const Contact = () => {
             <HiOutlineMail  className='contact__detail-icon '/>
             <h4>Email</h4>
             <h5>email@gmail.com</h5>
-            <a href="mailto:dummy@gmail.com"target="_blank">Send a message</a>
+            <a href="mailto:irfana.27@gmail.com"target="_blank">Send a message</a>
           </article>
           <article className="contact__detail">
             <RiMessengerLine className='contact__detail-icon '/>
             <h4>Messenger</h4>
             <h5>email@gmail.com</h5>
-            <a href="https://m.me/irfana.riyaz"target="_blank">Send a message</a>
+            <a href="https://www.messenger.com/"target="_blank">Send a message</a>
           </article>
           <article className="contact__detail">
             <BsWhatsapp  className='contact__detail-icon '/>
             <h4>Whatsapp</h4>
             <h5>email@gmail.com</h5>
-            <a href="https://api.whatsapp.com/send?phone+=14082038920"target="_blank">Send a message</a>
+            <a href="https://web.whatsapp.com/"target="_blank">Send a message</a>
           </article>
         </div>
         <form action="">

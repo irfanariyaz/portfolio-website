@@ -28,7 +28,7 @@ export default function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
-                <h4>Tailwind</h4>
+                <h4>CSS</h4>
                 <small className='text-light'>experienced</small>
               </div>
             </article>
@@ -42,17 +42,17 @@ export default function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>HTML</h4>
+                <h4>Bootstrap</h4>
                 <small className='text-light'>experienced</small>
               </div>
             </article>
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
                 <h4>HTML</h4>
                 <small className='text-light'>experienced</small>
               </div>
-            </article>
+            </article> */}
           </div>
        </div>
 
@@ -76,7 +76,7 @@ export default function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>Giving beats</h4>
+                <h4>DjangoREST</h4>
                 <small className='text-light'>experienced</small>
               </div>
             </article>
