@@ -2,70 +2,88 @@ import React from 'react'
 import "./portfolio.css"
 import IMG1 from "../../assets/LLpage1.png"
 import IMG2 from "../../assets/ecommerce.png"
-import IMG3 from "../../assets/portfolio3.jpg"
+import IMG3 from "../../assets/onlinecourse.png"
 import IMG4 from "../../assets/digitalcard.png"
 import IMG5 from "../../assets/portfolio4.jpg"
 import IMG6 from "../../assets/portfolio6.jpg"
+import IMG7 from "../../assets/netflix4.png"
+import IMG8 from "../../assets/ebay.png"
+import IMG9 from "../../assets/space_home.png"
 export default function Portfolio() {
   const data =[
     {
-        id:1,
+      id:1,
+      title:"Ebay clone(web3.0) App ",
+      image:IMG8,
+      github:"https://github.com/irfanariyaz/ebay-clone",
+      demo:" https://ebay-clone-build.vercel.app/",
+  },
+  {
+    id:2,
+    title:"NETFLIX CLONE",
+    image:IMG7,
+    github:"https://github.com/irfanariyaz/netflix-clone ",
+    demo:"https://github.com/irfanariyaz/netflix-clone ",
+},
+    {
+        id:3,
         title:"LOCAL LIBRARY APP",
         image:IMG1,
         github:" https://github.com/irfanariyaz/locallibrary.git ",
         demo:"https://afternoon-beyond-00881.herokuapp.com/catalog/",
     },
     {
-      id:2,
+      id:4,
       title:"ECOMMERCE APP",
       image:IMG2,
       github:"https://github.com/irfanariyaz/ecomm",
       demo:"https://irfana-ecommerce.herokuapp.com/",
     },
   {
-    id:3,
+    id:5,
     title:"Onlinecourse",
     image:IMG3,
     github:"https://github.com/irfanariyaz/onlinecourse",
     demo:"https://irfan.us-south.cf.appdomain.cloud/onlinecourse",
 },
 {
-  id:4,
+  id:6,
   title:"Digital Business Card",
   image:IMG4,
   github:"https://github.com/irfanariyaz/digital-card",
   demo:"https://github.com/irfanariyaz/digital-card",
 },
 {
-  id:5,
+  id:7,
   title:"Quiz App",
   image:IMG5,
   github:"https://github.com/irfanariyaz/quizzical",
   demo:"https://github.com/irfanariyaz/quizzical",
 },
 {
-  id:1,
+  id:10,
+  title:"Space Website",
+  image:IMG9,
+  github:"https://github.com/irfanariyaz/space_website",
+  demo:"https://github.com/irfanariyaz/space_website",
+},
+{
+  id:8,
   title:"Todo (DjangoREST)",
   image:IMG6,
   github:"https://github.com/irfanariyaz/DjangoREST-Todo",
   demo:"https://github.com/irfanariyaz/DjangoREST-Todo",
 },
 {
-  id:1,
+  id:9,
   title:"To do App",
   image:IMG6,
   github:"https://github.com/irfanariyaz/Todo",
   demo:"https://github.com/irfanariyaz/Todo",
 },
+
 {
-  id:1,
-  title:"Space Website",
-  image:IMG3,
-  github:"https://github.com/irfanariyaz/space_website",
-  demo:"https://github.com/irfanariyaz/space_website",
-},
-{
-  id:1,
+  id:11,
   title:"Sample Portfolio Website",
   image:IMG5,
   github:"https://github.com/irfanariyaz/portfoliowebsite",

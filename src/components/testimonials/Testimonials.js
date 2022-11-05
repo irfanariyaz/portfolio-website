@@ -16,17 +16,17 @@ export default function Testimonials() {
     {
       avatar:AVTR1,
       review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet unde magnam quia cupiditate recusandae quae error autem similique consectetur? Eius aspernatur perferendis, magni accusamus quae facere vero voluptates consequuntur numquam.",
-      name:"Omer Zaid",
+      name:"user1",
     },
     {
       avatar:AVTR2,
       review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet unde magnam quia cupiditate recusandae quae error autem similique consectetur? Eius aspernatur perferendis, magni accusamus quae facere vero voluptates consequuntur numquam.",
-      name:"Fathima Zoha",
+      name:"user2",
     },
     {
       avatar:AVTR3,
       review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet unde magnam quia cupiditate recusandae quae error autem similique consectetur? Eius aspernatur perferendis, magni accusamus quae facere vero voluptates consequuntur numquam.",
-      name:"Maryam Ziya",
+      name:"user3",
     },
     
   ]
