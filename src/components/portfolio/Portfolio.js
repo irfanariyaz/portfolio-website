@@ -58,7 +58,7 @@ export default function Portfolio() {
   title:"Quiz App",
   image:IMG5,
   github:"https://github.com/irfanariyaz/quizzical",
-  demo:"https://github.com/irfanariyaz/quizzical",
+  demo:"https://quizzical-opal.vercel.app/",
 },
 {
   id:10,
