@@ -14,43 +14,43 @@ export default function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>HTML</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">HTML</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>Javascript</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">Javascript</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
-                <h4>CSS</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">CSS</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>React</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">React</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>Bootstrap</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">Bootstrap</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>Tailwind CSS</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">Tailwind CSS</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             {/* <article className="experience__details">
@@ -69,36 +69,36 @@ export default function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
-                <h4>Django</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">Django</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
-                <h4>NodeJs</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">NodeJs</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill  className='experience__details-icon' />
               <div>
-                <h4>DjangoREST</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">DjangoREST</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
-                <h4>SQL</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">SQL</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
-                <h4>Python</h4>
-                <small className='text-light'>experienced</small>
+                <h4 className="experience__h4">Python</h4>
+                {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
           </div>
