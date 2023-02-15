@@ -9,12 +9,14 @@ import IMG6 from "../../assets/portfolio6.jpg"
 import IMG7 from "../../assets/netflix4.png"
 import IMG8 from "../../assets/ebay.png"
 import IMG9 from "../../assets/space_home.png"
+import IMG10 from "../../assets/quizlet.png"
+
 export default function Portfolio() {
   const data =[
     {
       id:1,
       title:"Quizlet ",
-      image:IMG8,
+      image:IMG10,
       github:"https://github.com/irfanariyaz/quizlet",
       demo:"https://github.com/irfanariyaz/quizlet",
   },
