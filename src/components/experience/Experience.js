@@ -53,13 +53,8 @@ export default function Experience() {
                 {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
-            {/* <article className="experience__details">
-              <BsCheckCircleFill className='experience__details-icon'  />
-              <div>
-                <h4>HTML</h4>
-                <small className='text-light'>experienced</small>
-              </div>
-            </article> */}
+          
+            
           </div>
        </div>
 
@@ -98,6 +93,27 @@ export default function Experience() {
               <BsCheckCircleFill className='experience__details-icon'  />
               <div>
                 <h4 className="experience__h4">Python</h4>
+                {/* <small className='text-light'>experienced</small> */}
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsCheckCircleFill  className='experience__details-icon' />
+              <div>
+                <h4 className="experience__h4">Java</h4>
+                {/* <small className='text-light'>experienced</small> */}
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsCheckCircleFill  className='experience__details-icon' />
+              <div>
+                <h4 className="experience__h4">Spring</h4>
+                {/* <small className='text-light'>experienced</small> */}
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsCheckCircleFill  className='experience__details-icon' />
+              <div>
+                <h4 className="experience__h4">MongoDB</h4>
                 {/* <small className='text-light'>experienced</small> */}
               </div>
             </article>
